@@ -1,6 +1,6 @@
 *{
     text-align:left;
-    color: rgb(109, 105, 105);
+    color: rgb(83, 80, 80);
 }
 h1{
     text-align: center;
@@ -68,6 +68,9 @@ button{
 }
 .zip-code{
     width:50%;
+}
+legend{
+    font-size:20px;
 }
 @media (min-width:"768") {
 
