@@ -12,6 +12,9 @@ h1{
 label{
     font-size:16px;
 }
+fieldset{
+    border:none;
+}
 .background-color{
     background: #E8E8E8;
     width: 96%;
