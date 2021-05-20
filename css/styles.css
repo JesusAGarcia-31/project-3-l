@@ -10,7 +10,10 @@ h1{
     padding:10px;
 }
 label{
-    font-size:16px;
+    font-size:16px;   
+    float: left;
+    width: 10em;
+    margin-right: 1em;
 }
 fieldset{
     border:none;
